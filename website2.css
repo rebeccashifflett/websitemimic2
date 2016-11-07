@@ -1,0 +1,61 @@
+body {
+  background-color: grey;
+}
+h1 {
+  text-align: center;
+}
+.menupic {
+  display: flex;
+  justify-content:space-around;
+}
+.menu {
+  margin-left: -100px;
+  border: 2px dashed black;
+  width: 20%;
+}
+.menu h5 {
+  text-decoration: underline;
+  color: black;
+}
+.menu li {
+  font-size: 25px;
+}
+.menu a {
+  color: purple;
+}
+.picture {
+  height: 210px;
+  margin-bottom: 60px;
+}
+.jakes{
+height: 200px;
+width:550px;
+
+}
+.narrative {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.about h1, .hours h1 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+.about p, .hours p {
+  font-size: 25px;
+  text-align: center;
+}
+.about h1 {
+  margin-left: 150px;
+}
+.about p {
+  margin-left: -50px;
+}
+.about {
+  margin-left: -40px;
+  border-right: 3px solid black;
+  padding-right: 50px;
+}
+.hours {
+  margin-left: -70px;
+}
